@@ -1,0 +1,80 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Rokkitt:wght@100&family=Sintony:wght@400;700&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@300;400;500&display=swap');  h1{
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+    }
+    
+    .activity-1{
+      background-color:rgb(14, 124, 14);
+      color: white;
+      font-family:'Times New Roman', Times, serif
+    
+    }
+    
+    .button{
+      background-color: orange;
+      border: solid rgb(204, 204, 204) 2px;
+      font-size: 15px;
+      font-weight:500;
+      font-family:'Times New Roman', Times, serif;
+      width: 100px;
+      text-align: center;
+      
+    }
+
+    .div1{
+    background-color: rgb(255, 167, 167);
+    font-size: 20px;
+    font-family: 'Sintony', sans-serif;    }
+
+    .div2{
+    background-color: rgb(255, 167, 167);
+    font-size: 30px;
+    font-family: 'Sintony', sans-serif;    }
+
+    .div3{
+      background-color: rgb(255, 167, 167);
+      font-size: 20px;
+      font-family: 'Sintony', sans-serif;    }
+
+    #number-1{
+    color: blue;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+
+    }
+
+    #number-2{
+    background-color: rgb(178, 255, 178);
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    }
+
+    .click-me{
+      background-color: black;
+      color: white;
+      border: solid rgb(171, 171, 171);
+      font-family:'Times New Roman', Times, serif;
+      font-size: 50px;
+
+    }
+    .click-no{
+      background-color: yellow;
+      border: solid rgb(171, 171, 171);
+      font-family:'Times New Roman', Times, serif;
+      font-size: 50px;
+
+    }
+
+    .img1{
+      width: 300px;
+    }
+    
