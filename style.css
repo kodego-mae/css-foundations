@@ -1,14 +1,16 @@
 
   
   @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Rokkitt:wght@100&family=Sintony:wght@400;700&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@300;400;500&display=swap');  h1{
-    text-align: center;
-    background-color: red;
-    color: white;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 30px;
-    
-    }
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Rokkitt:wght@100&family=Sintony:wght@400;700&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@300;400;500&display=swap');  
+  
+  h1{
+      text-align: center;
+      background-color: red;
+      color: white;
+      font-family:'Times New Roman', Times, serif;
+      font-size: 30px;
+      
+      }
     
     .activity-1{
       background-color:rgb(14, 124, 14);
