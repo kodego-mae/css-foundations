@@ -3,6 +3,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Rokkitt:wght@100&family=Sintony:wght@400;700&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@300;400;500&display=swap');  
   
+  /*  Activity 1*/
   h1{
       text-align: center;
       background-color: red;
@@ -29,6 +30,8 @@
       text-align: center;
       
     }
+
+     /*  Activity 2*/
 
     .div1{
     background-color: rgb(255, 167, 167);
@@ -60,6 +63,8 @@
     font-family: 'Ubuntu', sans-serif;
     }
 
+     /*  Activity 3*/
+
     .click-me{
       background-color: black;
       color: white;
@@ -76,7 +81,66 @@
 
     }
 
+
+     /*  Activity 4*/
     .img1{
       width: 300px;
     }
     
+
+     /*  Activity 5*/
+    .p1 , .p4 , .p5{
+      background-color:yellow;
+      font-size: 40px;
+      color: red;
+      text-align: center;
+      font-family: 'Ubuntu', sans-serif;
+     }
+
+     .p2 , .p3 {
+      font-size: 30px;
+      font-family: 'Ubuntu', sans-serif;
+     }
+     
+     
+
+     /*  Activity 6*/
+
+     .par1{
+      font-weight: 200px;
+      font-size: 30px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+
+     .par2{
+      font-weight: 200px;
+      font-size: 15px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+
+     .confirm{
+      background-color: green;
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+     }
+
+     .cancel{
+      font-size: 20px;
+      border: solid 2px;
+     }
+
+     .parent{
+      font-size: 25px;
+
+     }
+
+     .child1{
+      font-size: 25px;
+
+     }
+
+     .child2{
+      font-size: 15px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
